@@ -1,6 +1,6 @@
 # Stack-Exercise
 
-Dear Dr Asani,
+Dear Dr Asani Emmanuel,
 
 I sincerely apologize for the late submission of my CSC 312 classwork. I understand that the deadline was Monday, the 4th of December, and I am deeply sorry for submitting it very late.
 
@@ -13,5 +13,7 @@ I am committed to managing my time more effectively in the future and ensuring t
 Sincerely,
 
 Damilola Oni
+
 21CD008329
+
 2100736
